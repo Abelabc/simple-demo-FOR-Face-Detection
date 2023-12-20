@@ -2,7 +2,7 @@
 
 ### *Flowchart*
 
-![flowchart](F:\github_project\simple-demo-FOR-Face-Detection\pic\flowchart.png)
+![flowchart](https://github.com/Abelabc/simple-demo-FOR-Face-Detection/blob/main/pic/flowchart.png)
 
 ### *Calling the camera or video*
 
@@ -13,7 +13,7 @@
     cap = cv2.VideoCapture(0)
 ```
 
-![video](F:\github_project\simple-demo-FOR-Face-Detection\pic\video.png)
+![video](https://github.com/Abelabc/simple-demo-FOR-Face-Detection/blob/main/pic/video.png)
 
 ### *Using* *haar* *classfier*
 
